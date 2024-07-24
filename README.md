@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00AEFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2463EB&height=120&section=header"/>
 <h1 align = "center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, me chamo Maycon Douglas</h1>
-<p align="center">Desenvolvedor <strong>Full Stack</strong> com foco na stack <strong>JavaScript/TypeScript</strong>, atualmente cursando o 8°(o último 🙌) período de Ciência da Computação. Sempre em busca de mais conhecimento. 🚀</br> Bem Vindo ao meu Github! Bora Codar ?</p>
+<p align="center">Desenvolvedor <strong>Full Stack</strong> com foco na stack <strong>JavaScript/TypeScript</strong>, atualmente cursando o 8° período(o último 🙌) de Ciência da Computação. Sempre em busca de mais conhecimento. 🚀</br> Bem Vindo ao meu Github! Bora Codar ?</p>
 <!-- <h3 align="center">Aspirante a desenvolvedor, com foco no front end</h3> -->
 <br>
 
@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=white">
 </a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00AEFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2463EB&height=120&section=footer"/>
 
 
 
