@@ -1,66 +1,64 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00AEFF&height=120&section=header"/>
 <h1 align = "center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, me chamo Maycon Douglas</h1>
-<h3 align="center">Aspirante a desenvolvedor, com foco no front end</h3>
+<p align="center">Desenvolvedor <strong>Full Stack</strong> com foco na stack <strong>JavaScript/TypeScript</strong>, atualmente cursando o 8°(o último 🙌) período de Ciência da Computação. Sempre em busca de mais conhecimento. 🚀</br> Bem Vindo ao meu Github! Bora Codar ?</p>
+<!-- <h3 align="center">Aspirante a desenvolvedor, com foco no front end</h3> -->
 <br>
 
-- 🚀 - Sempre em busca de mais conhecimeto.
+<div  align="center" style="margin-bottom:100px"> 
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mayconndouglass&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+ </div>
+
+<!-- - 🚀 - Sempre em busca de mais conhecimeto.
 
 - 📕 - Cursando Ciência da Computação(4/8).
 
-- 💬 - Você pode me contatar através do email maycondouglas1414@gmail.com  ou pelo <a href="https://www.linkedin.com/in/maycon-douglas-112623247/">Linkedin</a>.
+- 💬 - Você pode me contatar através do email maycondouglas1414@gmail.com  ou pelo <a href="https://www.linkedin.com/in/maycon-douglas-112623247/">Linkedin</a>. -->
 
-<hr>
 
-## Linguagens e tecnologias 🛠
+## Skills
 
-### Que tenho mais experiência
+#### Principais
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/-Next-000000?style=for-the-badge&labelColor=000000&logo=next.js&logoColor=white)
+![Node](https://img.shields.io/badge/-Node-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
+![Nest](https://img.shields.io/badge/-Nest-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 
-<hr>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-### Vistas na faculdade
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<hr>
-
-### Estudando no momento
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<hr>
+#### Outras
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white)
+![StyleComponents](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=pink)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=06B6D4)
+![Zustand](https://img.shields.io/badge/-Zustand-7755FF?style=for-the-badge&labelColor=black&logo=react&logoColor=7755FF)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=C21325)
+![ViteTest](https://img.shields.io/badge/-Vitest-6E9F18?style=for-the-badge&labelColor=black&logo=vitest&logoColor=6E9F18)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
 
 
 
+#### Banco de dados & ORMs
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)
+![ViteTest](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)
 
 
 
-<!--
-👋
-**mayconndouglass/mayconndouglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato
+<a href="https://www.linkedin.com/in/maycon-douglas-112623247/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:maycondouglas1414@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&labelColor=black&logo=gmail&logoColor=white">
+</a>
 
-Here are some ideas to get you started:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00AEFF&height=120&section=footer"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=white) -->
